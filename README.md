@@ -3,6 +3,12 @@ Esse é o lado de IOT do projeto Eco-Play, esse é o lado do projeto em que cont
 
 <br>
 
+<div align="center" style="display: inline_block">
+  <img align="center" alt="Arduino" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
+</div>
+
+<br>
+
 ## Configurando placar 
 ```c++
 #include <MD_MAX72xx.h>
